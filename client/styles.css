@@ -1,0 +1,13 @@
+.chlorophyll {
+    color:rgb( 94 , 167 , 58 );
+}
+
+.chirp {
+    width:200px;
+    height:200px;
+    border-style:solid;
+    border-color:black;
+    border-width:medium;
+    text-align:center;
+    vertical-align:middle;
+}
